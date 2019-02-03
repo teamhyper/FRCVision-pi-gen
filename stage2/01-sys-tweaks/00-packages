@@ -1,6 +1,7 @@
 java-common
 ntp
 daemontools daemontools-run
+ffmpeg
 build-essential gdb
 busybox-syslogd
 ssh less fbset sudo psmisc strace ed ncdu crda
