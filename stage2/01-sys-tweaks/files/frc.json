@@ -1,5 +1,5 @@
 {
-    "team": 294,
+    "team": 69,
     "cameras": [
 	{
 	    "name": "rPi Camera 0",
@@ -7,7 +7,7 @@
 	    "pixel format": "mjpeg",
 	    "width": 160,
 	    "height": 120,
-	    "fps": 30
+	    "fps": 7
 	}
     ]
 }
